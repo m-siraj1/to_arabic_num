@@ -1,0 +1,11 @@
+/home/light/projects/to_arabic_numerals/target/release/deps/copypasta-c0e13ebc24eb71d1.d: /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/wayland_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/light/projects/to_arabic_numerals/target/release/deps/libcopypasta-c0e13ebc24eb71d1.rlib: /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/wayland_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/light/projects/to_arabic_numerals/target/release/deps/libcopypasta-c0e13ebc24eb71d1.rmeta: /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/wayland_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs:
+/home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs:
+/home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/wayland_clipboard.rs:
+/home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs:
+/home/light/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs:

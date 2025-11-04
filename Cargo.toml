@@ -1,0 +1,9 @@
+[package]
+name = "to_arabic_numerals"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arboard = "3.6.1"
+cmake = "0.1.54"
+copypasta = "0.10.2"
