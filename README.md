@@ -1,5 +1,10 @@
+To run the program, simply open the `release` folder and start `./to_arabic_numerals` from the command line.
+
+
 You need to have cmake installed I think.
 You may need to write 'export CMAKE_POLICY_VERSION_MINIMUM=3.5' without the quotation in your ~/.bashrc file in order for this program to work, if you are running linux.
+
+However, it may also work without it.
 
 How it works?
 
